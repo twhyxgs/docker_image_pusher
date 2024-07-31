@@ -1,4 +1,4 @@
-homeassistant/home-assistant:arm64
+--platform linux/arm64 homeassistant/home-assistant
 portainer/portainer
 linuxserver/heimdall
 xhofe/alist
