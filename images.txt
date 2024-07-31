@@ -2,3 +2,6 @@
 --platform linux/arm64 portainer/portainer
 --platform linux/arm64 linuxserver/heimdall
 --platform linux/arm64 xhofe/alist
+--platform linux/arm64 jellyfin/jellyfin
+--platform linux/arm64 nextcloud
+--platform linux/arm64 wordpress
