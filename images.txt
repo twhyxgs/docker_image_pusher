@@ -13,4 +13,5 @@
 --platform linux/arm64 6053537/portainer-ce
 --platform linux/arm64 whyour/qinglong
 --platform linux/arm64 kylemanna/openvpn
---platform linux/arm64 teddysun/shadowsocks-libev
+--platform linux/arm64 teddysun/shadowsocks
+--platform linux/arm64 lscr.io/linuxserver/syncthing
