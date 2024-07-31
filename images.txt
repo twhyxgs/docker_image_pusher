@@ -7,3 +7,6 @@
 --platform linux/arm64 wordpress
 --platform linux/arm64 kodcloud/kodexplorer
 --platform linux/arm64 antonyleons/ward
+--platform linux/arm64 ypptec/nascab
+--platform linux/arm64 ghcr.io/kingmo888/rustdesk-api-server
+--platform linux/arm64 linuxserver/qbittorrent
