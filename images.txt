@@ -5,3 +5,4 @@
 --platform linux/arm64 jellyfin/jellyfin
 --platform linux/arm64 nextcloud
 --platform linux/arm64 wordpress
+--platform linux/arm64 kodcloud/kodexplorer
