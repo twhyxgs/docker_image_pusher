@@ -6,3 +6,4 @@
 --platform linux/arm64 nextcloud
 --platform linux/arm64 wordpress
 --platform linux/arm64 kodcloud/kodexplorer
+--platform linux/arm64 antonyleons/ward
