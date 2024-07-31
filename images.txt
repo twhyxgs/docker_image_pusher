@@ -12,3 +12,4 @@
 --platform linux/arm64 linuxserver/qbittorrent
 --platform linux/arm64 6053537/portainer-ce
 --platform linux/arm64 whyour/qinglong
+--platform linux/arm64 kylemanna/openvpn
