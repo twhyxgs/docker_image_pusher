@@ -14,3 +14,4 @@
 --platform linux/arm64 whyour/qinglong
 --platform linux/arm64 teddysun/shadowsocks
 --platform linux/arm64 syncthing/syncthing
+--platform linux/arm64 plexinc/pms-docker
