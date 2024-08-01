@@ -1,1 +1,1 @@
---platform linux/arm64 plexinc/pms-docker
+--platform linux/arm64 linuxserver/plex
