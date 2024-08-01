@@ -1,1 +1,1 @@
---platform linux/arm64 linuxserver/plex
+--platform linux/arm64 linuxserver/emby
