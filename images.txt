@@ -1,1 +1,1 @@
---platform linux/arm64 bestwu/ewomail
+bestwu/ewomail
