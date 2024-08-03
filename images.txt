@@ -1,1 +1,1 @@
---platform linux/arm64 registry.cn-hangzhou.aliyuncs.com/ewomail/ewomail
+--platform linux/arm64 analogic/poste.io
