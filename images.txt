@@ -1,1 +1,1 @@
---platform linux/arm64 analogic/poste.io
+--platform linux/arm64 n2n
