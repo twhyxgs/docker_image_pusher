@@ -1,1 +1,1 @@
---platform linux/arm64 neosmemo/memos
+--platform linux/arm64 searxng/searxng
