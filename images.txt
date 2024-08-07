@@ -1,1 +1,1 @@
---platform linux/arm64 searxng/searxng
+--platform linux/arm64 syncthing/syncthing
