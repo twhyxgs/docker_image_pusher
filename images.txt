@@ -1,1 +1,1 @@
---platform linux/arm64 syncthing/syncthing
+--platform linux/arm64 rustdesk/rustdesk-server
