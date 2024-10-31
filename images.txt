@@ -1,1 +1,1 @@
---platform linux/arm64 ghcr.io/monlor/xiaoya-alist
+--platform linux/arm64 homeassistant/home-assistant
