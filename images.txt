@@ -1,1 +1,4 @@
---platform linux/arm64 lovechen/embyserver
+--platform linux/arm64 nodered/node-red
+--platform linux/arm64 ghcr.io/monlor/xiaoya-alist
+--platform linux/arm64 esphome/esphome
+--platform linux/arm64 linuxserver/heimdall
