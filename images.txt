@@ -1,8 +1,1 @@
 --platform linux/amd64 homeassistant/home-assistant
---platform linux/amd64 portainer/portainer
---platform linux/amd64 linuxserver/heimdall
---platform linux/amd64 xhofe/alist
---platform linux/amd64 jellyfin/jellyfin
---platform linux/amd64 wordpress
---platform linux/amd64 kodcloud/kodexplorer
---platform linux/amd64 nextcloud
