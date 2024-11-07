@@ -1,1 +1,7 @@
---platform linux/amd64 homeassistant/home-assistant
+homeassistant/home-assistant
+portainer/portainer
+linuxserver/heimdall
+xhofe/alist
+jellyfin/jellyfin
+wordpress
+kodcloud/kodexplorer
