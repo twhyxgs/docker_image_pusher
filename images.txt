@@ -1,7 +1,1 @@
-homeassistant/home-assistant
-portainer/portainer
-linuxserver/heimdall
-xhofe/alist
-jellyfin/jellyfin
-wordpress
-kodcloud/kodexplorer
+--platform linux/arm64 soulteary/flare
