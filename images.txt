@@ -1,1 +1,1 @@
---platform linux/arm64 mtphotos/mt-photos
+--platform linux/arm64 photoprism/photoprism
