@@ -1,1 +1,1 @@
-photoprism/photoprism:arm64
+--platform linux/arm64 ghcr.io/imagegenius/immich:latest
