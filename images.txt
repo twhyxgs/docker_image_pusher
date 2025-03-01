@@ -1,1 +1,1 @@
---platform linux/arm64 diygod/rsshub:chromium-bundled
+--platform linux/arm64 hectorqin/reader
