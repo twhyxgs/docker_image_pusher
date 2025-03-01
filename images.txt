@@ -1,1 +1,1 @@
---platform linux/arm64 hectorqin/reader
+--platform linux/arm64 zzzshanghai/doube-itv
