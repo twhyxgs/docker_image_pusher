@@ -1,1 +1,1 @@
---platform linux/arm64 zzzshanghai/doube-itv
+--platform linux/arm64 zzzshanghai/doube-itv:latest
