@@ -1,1 +1,1 @@
---platform linux/arm64 nyanmisaka/jellyfin:latest
+--platform linux/arm64 jellyfin/jellyfin
