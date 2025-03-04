@@ -1,1 +1,1 @@
---platform linux/arm64 zzzshanghai/doube-itv:latest
+--platform linux/arm64 nyanmisaka/jellyfin:latest
