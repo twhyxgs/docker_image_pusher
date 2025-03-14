@@ -1,1 +1,1 @@
---platform diygod/rsshub
+--platform linux/arm64 c794103684/xiaozhi-esp32-server
