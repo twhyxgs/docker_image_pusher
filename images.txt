@@ -1,1 +1,1 @@
---platform linux/arm64 c794103684/xiaozhi-esp32-server
+--platform linux/arm64 imsyy/dailyhot-api
