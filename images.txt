@@ -1,1 +1,1 @@
---platform linux/arm64 imsyy/dailyhot-api
+--platform linux/arm64 liwangsheng/dailyhot-web
