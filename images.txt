@@ -1,1 +1,1 @@
---platform linux/arm64 linuxserver/mysql
+--platform linux/arm64 mysql:latest
