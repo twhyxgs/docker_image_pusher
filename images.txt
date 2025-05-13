@@ -1,1 +1,1 @@
---platform linux/arm64 linuxserver/piwigo
+--platform linux/arm64 linuxserver/mysql
