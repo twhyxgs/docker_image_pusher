@@ -1,2 +1,1 @@
-lovechen/embyserver
 linuxserver/heimdall
