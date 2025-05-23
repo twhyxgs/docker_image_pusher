@@ -1,3 +1,2 @@
-homeassistant/home-assistant
 lovechen/embyserver
 linuxserver/heimdall
