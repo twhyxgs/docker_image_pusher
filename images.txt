@@ -1,1 +1,3 @@
-6053537/portainer-ce:latest
+homeassistant/home-assistant
+lovechen/embyserver
+linuxserver/heimdall
