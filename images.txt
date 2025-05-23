@@ -1,1 +1,1 @@
---platform linux/arm64 guovern/iptv-api:latest
+6053537/portainer-ce:latest
