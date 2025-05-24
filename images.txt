@@ -1,1 +1,1 @@
-linuxserver/heimdall
+--platform linux/arm64 ralbum/ralbum
