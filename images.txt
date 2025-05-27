@@ -1,1 +1,1 @@
---platform linux/arm64 ralbum/ralbum
+--platform linux/arm64 netdata/netdata
