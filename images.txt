@@ -1,1 +1,1 @@
---platform linux/arm64 louislam/dockge
+--platform linux/arm64 shawn68/mcp_ha_xiaozhi
