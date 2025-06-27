@@ -1,1 +1,1 @@
---platform linux/arm64 ghcr.nju.edu.cn/hasscc/hass-super
+--platform linux/arm64 homeassistant/home-assistant
