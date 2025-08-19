@@ -1,1 +1,1 @@
---platform linux/arm64 xemle/home-gallery
+--platform linux/arm64 xemle/home-gallery-api-server
