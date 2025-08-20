@@ -1,1 +1,1 @@
---platform linux/arm64 lovechen/embyserver
+--platform linux/arm64 bpatrik/pigallery2
