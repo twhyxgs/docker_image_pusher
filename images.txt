@@ -1,1 +1,6 @@
+--platform linux/arm64 lovechen/embyserver
+--platform linux/arm64 linuxserver/heimdall
+--platform linux/arm64 nodered/node-red
+--platform linux/arm64 esphome/esphome
+--platform linux/arm64 bpatrik/pigallery2
 --platform linux/arm64 homeassistant/home-assistant
