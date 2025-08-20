@@ -1,1 +1,1 @@
---platform linux/arm64 bpatrik/pigallery2
+--platform linux/arm64 jackett/jackett
