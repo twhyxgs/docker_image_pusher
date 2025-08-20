@@ -1,1 +1,1 @@
---platform linux/arm64 xemle/home-gallery-api-server
+--platform linux/arm64 homeassistant/home-assistant
