@@ -1,1 +1,1 @@
---platform linux/arm64 homeassistant/home-assistant
+--platform linux/amd64 neosmemo/memos
