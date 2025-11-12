@@ -1,1 +1,1 @@
---platform linux/amd64 jonnyan404/chfs
+--platform linux/amd64 linuxserver/heimdall
