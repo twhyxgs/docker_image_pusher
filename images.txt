@@ -1,1 +1,1 @@
---platform linux/amd64 linuxserver/heimdall
+--platform linux/amd64 jackett/jackett
