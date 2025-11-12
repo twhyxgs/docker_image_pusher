@@ -1,1 +1,1 @@
---platform linux/amd64 jackett/jackett
+--platform linux/amd64 linuxserver/jackett
