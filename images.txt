@@ -1,1 +1,1 @@
---platform benzino77/tasmocompiler
+--platform linux/amd64 benzino77/tasmocompiler
