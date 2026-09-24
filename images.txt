@@ -1,1 +1,1 @@
---platform linux/amd64 benzino77/tasmocompiler:development
+--platform linux/amd64 idootop/mi-gpt:latest
