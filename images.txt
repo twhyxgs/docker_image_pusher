@@ -1,1 +1,1 @@
---platform linux/amd64 idootop/mi-gpt:latest
+--platform linux/arm64 homeassistant/home-assistant
